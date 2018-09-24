@@ -15,7 +15,8 @@ Skrypt w pętli sprawdza pozycje enkoderów silników krokowych
 i porównuje z pozycją silników zapizaną w zmiennej
 > DE = "7504887"   i   > RA = "10530800"
 
+Jeżeli parametry się zgadzają
 > if DE == parkDE and RA == parkRA:
 
-Jeżeli parametry się zgadzają wtedy zostaje uruchomiona funkcja roof
+zostaje uruchomiona funkcja roof
 > def roof():
