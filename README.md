@@ -13,7 +13,7 @@ Skrypt w pętli sprawdza pozycje enkoderów silników krokowych
 > 'indi_getprop -1 -h 192.168.1.10 -p 7624 "EQMod Mount.CURRENTSTEPPERS.DEStepsCurrent"'
 
 i porównuje z pozycją silników zapizaną w zmiennej
-> DE = "7504887"   i   > RA = "10530800"
+> DE = "7504887"   i    RA = "10530800"
 
 Jeżeli parametry się zgadzają
 > if DE == parkDE and RA == parkRA:
