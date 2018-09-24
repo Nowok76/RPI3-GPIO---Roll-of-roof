@@ -1,5 +1,5 @@
 ## RPI3GPIO Roll of roof
-#Remote Roll of roof service
+**Remote Roll of roof service**
 
 Jest to skrypt za pomocą którego możemy zautomatyzować zamykanie dachu
 w naszym obserwatorium.
